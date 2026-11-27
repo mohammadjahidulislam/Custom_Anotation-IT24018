@@ -273,6 +273,11 @@ public class Main {
 }
 ```
 
+
+OutPut Screenshot:
+
+<img width="866" height="402" alt="Custm" src="https://github.com/user-attachments/assets/48472c0a-6989-4a63-b1d4-b47aa1b34fb8" />
+
 ## Part E: Reflection Questions
 **1. What would happen if @Retention(RetentionPolicy.RUNTIME) were forgotten?**
 
